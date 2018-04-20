@@ -25,6 +25,8 @@ print('Input Block Instructions')
 print('------------------------')
 b.capstone.pp()
 
+print('')
+
 # Pretty-print IR
 print('Intermediate Representation')
 print('---------------------------')
